@@ -9,6 +9,7 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
+  - it
 
 # Destination directory
 # ---------------------
@@ -33,8 +34,8 @@ src_dir: ''
 # tags or branches should be indicated after an "@" symbol. The default is the
 # two GitHub repositories 'translations-un-sdg' and 'translations-open-sdg'.
 translations:
-  - https://github.com/open-sdg/translations-un-sdg.git@1.0.0-rc1
-  - https://github.com/open-sdg/translations-open-sdg.git@1.0.0-rc6
+  - https://github.com/mauromussin/translations-open-sdg.git@1.0.0-rc8
+  - https://github.com/mauromussin/translations-un-sdg.git@1.0.0-rc3
 
 # Reporting status extra fields
 # -----------------------------
